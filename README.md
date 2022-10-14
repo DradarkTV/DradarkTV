@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DradarkTV
-- 👀 I’m interested in video game, manga, graphism and programing.
-- 🌱 I’m currently learning programing
+- 👀 I’m interested in video game, manga, graphism and programming
+- 🌱 I’m currently learning programming
 - 📫 How to reach me dradarkx@gmail.com
 
 <!---
